@@ -1,7 +1,5 @@
 # xatBlog - API
-## Find all documentation here.
-
-
+## Examples
 Check out the examples directory.
 
 We actually have some examples in:
@@ -15,3 +13,5 @@ We actually have some examples in:
 * Ruby
 * TypeScript
   
+## Swagger UI
+We also have a version of the documentation using the Swagger UI, you can check it out here: https://api.xatblog.net.
